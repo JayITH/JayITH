@@ -1,2 +1,10 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jayhua&show_icons=true&hide_border=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayhua&hide_border=true">
+### Hi, I'm jayhua 👋
+
+- 🔭 I’m now working in china.
+- 🌱 I’m a pupil of bigdata learning. 
+- 🤔 I’m currently coding in java python and C++.
+- ❤️ I like playing ball 🏀🎳	🏸 and photography 📸.
+- 💬 Be free to ask me about anything [here](https://github.com/JayITH/JayITH/issues).
+
+### My Contributions
+![](https://raw.githubusercontent.com/thinkingthigh/thinkingthigh/main/assets/github-contribution-grid-snake.svg)
