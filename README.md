@@ -2,7 +2,7 @@
 
 - 🔭 I’m now working in china.
 - 🌱 I’m a pupil of bigdata learning. 
-- 🤔 I’m currently coding in java python and C++.
+- 🤔 I’m currently coding in java python and c++.
 - ❤️ I like playing ball 🏀🎳	🏸 and photography 📸.
 - 💬 Be free to ask me about anything [here](https://github.com/JayITH/JayITH/issues).
 
