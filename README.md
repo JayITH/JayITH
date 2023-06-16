@@ -1,7 +1,7 @@
 ### Hi, I'm jayhua 👋
 
-- 🔭 I’m now working in china.
-- 🌱 I’m a pupil of bigdata learning. 
+- 🌱 I’m a worker of bigdata. 
+- 🔭 I’m now working in shenzhen.
 - 🤔 I’m currently coding in java python and c++.
 - ❤️ I like playing ball 🏀🎳	🏸 and photography 📸.
 - 💬 Be free to ask me about anything [here](https://github.com/JayITH/JayITH/issues).
