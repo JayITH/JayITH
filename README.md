@@ -1,6 +1,6 @@
 ### Hi, I'm jayhua 👋
 
-- 🔭 I’m a worker of bigdata. 
+- 🌐 I’m a worker of bigdata. 
 - 🥳 I’m now working in selectdb.
 - 🤔 I’m currently coding in java python and c++.
 - 🤠 I like playing ball 🏀🎳	🏸 and photography 📸.
